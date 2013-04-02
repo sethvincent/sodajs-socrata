@@ -1,0 +1,22 @@
+{
+  "name": "sodajs-socrata",
+  "version": "0.0.1",
+  "description": "client for socrata's soda api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sethvincent/sodajs-socrata.git"
+  },
+  "author": {
+    "name": "seth vincent",
+    "email": "sethvincent@gmail.com",
+    "url": "http://sethvincent.com"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.16.6"
+  }
+}
