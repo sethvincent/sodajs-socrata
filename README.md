@@ -1,5 +1,7 @@
 # sodajs-socrata
-> javascrip client for socrata's soda api
+> javascript client for socrata's soda api.
+
+Read the [socrata developer docs](http://dev.socrata.com/).  
 
 Tested with node 0.10.0 so far.  
 
