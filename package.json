@@ -1,6 +1,6 @@
 {
   "name": "sodajs-socrata",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "client for socrata's soda api",
   "main": "index.js",
   "scripts": {
