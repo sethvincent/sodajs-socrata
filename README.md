@@ -7,7 +7,7 @@ Will likely work in the browser using browserify.
 
 ### Usage:
 ```
-var soda = require('./index.js');
+var soda = require('sodajs-socrata');
 
 var s = new soda({
   url: 'http://data.seattle.gov'
